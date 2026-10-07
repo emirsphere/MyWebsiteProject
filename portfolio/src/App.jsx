@@ -311,26 +311,22 @@ export default function App() {
               <div className="lg:col-span-8 space-y-8">
 
                 <div className="space-y-3">
+  <p className="text-[#8B929E] font-medium tracking-widest text-xs uppercase">
+    Bilgisayar Mühendisliği Öğrencisi
+    <span className="mx-2 opacity-50">|</span>
+    Backend & Dağıtık Sistemler
+  </p>
 
-                  <p className="text-[#8B929E] font-medium tracking-widest text-xs uppercase">
-                    Bilgisayar Mühendisliği Öğrencisi
-                    <span className="mx-2 opacity-50">|</span>
-                    Backend Developer
-                  </p>
+  <h1 className="text-5xl sm:text-6xl md:text-8xl font-bold text-[#F1F3F5] tracking-tighter leading-none">
+    HARUN EMİR
+    <br />
+    ÖZCAN
+  </h1>
+</div>
 
-                  <h1 className="text-5xl sm:text-6xl md:text-8xl font-bold text-[#F1F3F5] tracking-tighter leading-none">
-                    HARUN EMİR
-                    <br />
-                    ÖZCAN
-                  </h1>
-
-                </div>
-
-                <p className="text-[#8B929E] text-lg md:text-xl max-w-xl leading-relaxed">
-                  <span className="text-[#F1F3F5]">C#</span> ve{' '}
-                  <span className="text-[#F1F3F5]">.NET</span> ile backend
-                  sistemleri geliştiriyorum.
-                </p>
+<p className="text-[#8B929E] text-lg md:text-xl max-w-xl leading-relaxed">
+  <span className="text-[#F1F3F5]">C#</span> ve <span className="text-[#F1F3F5]">.NET</span> ile ölçeklenebilir backend sistemleri geliştiriyorum. Özellikle dağıtık sistemler, arka plan servisleri ve Endüstriyel IoT (IIoT) alanlarına odaklanıyorum.
+</p>
 
                 <div className="flex flex-wrap items-center gap-4 pt-4">
 
@@ -393,15 +389,8 @@ export default function App() {
                 <div className="md:col-span-7">
 
                   <p className="text-[#8B929E] text-lg leading-relaxed">
-                    Backend development alanına odaklanan Bilgisayar
-                    Mühendisliği öğrencisiyim.{' '}
-                    <span className="text-[#F1F3F5] font-medium">
-                      C# ve .NET
-                    </span>{' '}
-                    ile API'ler geliştiriyor, veritabanlarıyla çalışıyor,
-                    yazılım mimarileri tasarlıyor ve IoT sistemlerini
-                    keşfediyorum.
-                  </p>
+  Backend development alanına odaklanan bir Bilgisayar Mühendisliği öğrencisiyim. <span className="text-[#F1F3F5] font-medium">C# ve .NET</span> ekosisteminde güvenli API'ler, asenkron Worker Service'ler ve mesajlaşma tabanlı backend sistemleri geliştiriyorum. Özellikle Endüstriyel IoT (IIoT) ve dağıtık sistemlere ilgi duyuyor; cihazlardan gelen verilerin güvenilir şekilde işlenmesi, ağ iletişimi ve sistemlerin dayanıklılığı üzerine çalışıyorum. Hedefim yalnızca çalışan kod yazmak değil; yazılımın altında çalışan bellek, ağ ve sistem davranışlarını anlayarak sağlam ve ölçeklenebilir backend sistemleri geliştirmek.
+</p>
 
                 </div>
 
